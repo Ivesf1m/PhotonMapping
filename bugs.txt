@@ -1,0 +1,6 @@
+Bugs conhecidos (Ray-Tracer):
+-Refração
+-Interpolação (para objetos feitos de triângulos)
+-Supersampling (deslocando a imagem)
+-Câmera
+-Interface
